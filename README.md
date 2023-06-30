@@ -1,3 +1,7 @@
+<div style="display: inline-block;">
+ <img title="Cover" alt="Codesaur Cover" align="center" src="img/capa-facebook.png">
+</div>
+
 ## Olá e bem vindo(a) ao Codesaur. 🙋🏻‍♂️🦖💻🫶
 
 ### Canais e Redes Sociais
